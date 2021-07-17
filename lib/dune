@@ -1,0 +1,3 @@
+(library
+  (name fcontracts)
+  (public_name fcontracts))
